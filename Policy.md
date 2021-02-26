@@ -1,7 +1,7 @@
 # Civil-Engineer-Diary
 
 Privacy Policy - Civil Engineer Diary
-Civil Engineer Diary is a free android application. This service is provided by Ash Studios at no cost and is intended for use as is.
+Civil Engineer Diary is a free android application. This service is provided by Emmanuel Studios Apps at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of personal information if anyone decided to use our Service.
 
@@ -42,4 +42,4 @@ Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
 
 Contact Us
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us : george.cv038@gmail.com
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us : emmanuel.studio.apps@gmail.com
